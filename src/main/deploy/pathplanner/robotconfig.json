@@ -1,0 +1,23 @@
+{
+    "robotMass": 74.088,
+    "robotMOI": 6.883,
+    "bumperWidth": 0.900,
+    "bumperLength": 0.900,
+    "bumperXOffset": 0.0,
+    "bumperYOffset": 0.0,
+  
+    "driveBaseType": "swerve",
+    "wheelRadius": 0.048,
+    "driveGearing": 5.143,
+    "maxDriveSpeed": 5.450,
+    "wheelCOF": 1.200,
+    "driveMotorType": "Kraken X60",
+    "driveCurrentLimit": 60,
+  
+    "modules": [
+      { "name": "FL", "x": 0.273, "y": 0.273 },
+      { "name": "FR", "x": 0.273, "y": -0.273 },
+      { "name": "BL", "x": -0.273, "y": 0.273 },
+      { "name": "BR", "x": -0.273, "y": -0.273 }
+    ]
+  }
